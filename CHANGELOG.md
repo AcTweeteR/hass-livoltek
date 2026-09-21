@@ -4,10 +4,9 @@
 
 - Added complete Spanish user documentation for installation, configuration,
   sensors, diagnostics, maintenance and development.
-- Added official `repository.yaml` metadata for the Home Assistant OS add-on
-  repository flow.
-- Added clear separation between HACS integrations and future Home Assistant OS
-  add-ons.
+- Clarified HACS installation, configuration, updates and support documentation.
+- Clarified that this repository distributes a Home Assistant custom integration,
+  not a Home Assistant App/add-on.
 - Added descriptions for the repository areas, workflows, tests, scripts and
   development configuration.
 - Added security guidance for reporting issues and protecting cloud credentials.
@@ -25,4 +24,4 @@
 - Preserved the last valid values when Livoltek returns no data temporarily.
 - Added token refresh recovery after repeated empty device responses.
 - Added daily grid and solar energy sensors.
-- Added HACS and Home Assistant add-on repository instructions.
+- Added HACS installation and custom repository instructions.
